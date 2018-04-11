@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://giabancanhowaterbay.blogspot.com/' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>giá bán căn hộ waterbay</a>. LH PKD 0901 50 57 56. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://giabancanhowaterbay.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-5o4X4jGjmg0/Ws4IKwt1XpI/AAAAAAAAIRo/z1f1andgESE9sqYC_JFSKbIhsP42rP51ACLcBGAs/s1600/2%2B%25281%2529.jpg' width='500px'/><br/>giá bán căn hộ waterbay</a>. LH PKD 0901 50 57 56. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
